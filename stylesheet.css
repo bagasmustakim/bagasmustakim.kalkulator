@@ -7,14 +7,11 @@
     
 }
 h1{
-    text-align: center;
-   
-    
-    
+    text-align: center; 
 }
 
 body{
-    background-image:"bgs.jpg";
+    background-image:'bgs.jpg';
 }
 .calculator-screen{
     width: 100%;

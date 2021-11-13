@@ -11,7 +11,7 @@ h1{
 }
 
 body{
-    background-image:'bgs.jpg';
+    background-image: url('bgs.jpg');
 }
 .calculator-screen{
     width: 100%;
